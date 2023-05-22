@@ -50,7 +50,7 @@ else "Hello "+Name+"!" + Weather-Advice</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:input id="_F4616377-D1A5-4686-AF72-6CB3DB689594">
-        <dmn:inputExpression>
+        <dmn:inputExpression id="_6B5FCA30-A7D6-4262-B52A-48EAFC8E9725">
           <dmn:text>Weather.temperature</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
